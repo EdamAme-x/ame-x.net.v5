@@ -16,7 +16,7 @@ export default function Home() {
                   first: "#ffffffcc",
                   second: "rgb(192 132 252)"
                 }}>
-                  <RichText className="bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 animation-[moving_5s_linear_infinite]">redesigned</RichText>
+                  <RichText className="bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 animation-[moving_5s_linear_infinite]">Redesigned</RichText>
                 </SparklesText>
               </RichText>
             </h1>
